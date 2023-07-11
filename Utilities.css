@@ -1,0 +1,122 @@
+element.style {
+}
+.content > .generic-block > .block {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.content > .generic-block > .block {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+@media screen and (max-width: 1024px)
+.generic-block-wrapper.padding-bottom-seventy, .generic-block-wrapper.padding-bottom-eighty, .generic-block-wrapper.padding-bottom-ninety, .generic-block-wrapper.padding-bottom-hundred, .generic-block-wrapper.padding-bottom-hundred-ten, .generic-block-wrapper.padding-bottom-hundred-twenty, .generic-block-wrapper.padding-bottom-hundred-thirty, .generic-block-wrapper.padding-bottom-hundred-forty, .generic-block-wrapper.padding-bottom-hundred-fifty, .generic-block-wrapper.padding-bottom-hundred-sixty, .generic-block-wrapper.padding-bottom-hundred-seventy, .generic-block-wrapper.padding-bottom-hundred-eighty, .generic-block-wrapper.padding-bottom-hundred-ninety, .generic-block-wrapper.padding-bottom-two-hundred {
+    padding-bottom: 60px;
+}
+@media screen and (max-width: 1024px)
+.generic-block-wrapper.padding-top-seventy, .generic-block-wrapper.padding-top-eighty, .generic-block-wrapper.padding-top-ninety, .generic-block-wrapper.padding-top-hundred, .generic-block-wrapper.padding-top-hundred-ten, .generic-block-wrapper.padding-top-hundred-twenty, .generic-block-wrapper.padding-top-hundred-thirty, .generic-block-wrapper.padding-top-hundred-forty, .generic-block-wrapper.padding-top-hundred-fifty, .generic-block-wrapper.padding-top-hundred-sixty, .generic-block-wrapper.padding-top-hundred-seventy, .generic-block-wrapper.padding-top-hundred-eighty, .generic-block-wrapper.padding-top-hundred-ninety, .generic-block-wrapper.padding-top-two-hundred {
+    padding-top: 60px;
+}
+.generic-block-wrapper.padding-bottom-hundred {
+    padding-bottom: 100px;
+}
+.generic-block-wrapper.padding-top-hundred {
+    padding-top: 100px;
+}
+.block {
+    color: #000 !important;
+}
+.page-hero {
+    display: block !important;
+}
+@media only screen and (max-width: 1024px)
+.block, .generic-block--five-ten, .generic-block-wrapper.generic-block--tall {
+    min-height: initial;
+}
+.generic-block--auto {
+    min-height: 0;
+}
+.generic-block-wrapper {
+    padding: 100px 0;
+    position: relative;
+    background-size: cover;
+}
+.block--transparent {
+    background-color: inherit;
+    color: inherit;
+}
+.block {
+    color: #ddd;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    min-height: 300px;
+}
+.padding-bottom-hundred {
+    padding-bottom: 100px;
+}
+.padding-top-hundred {
+    padding-top: 100px;
+}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.block--light {
+    color: #181818;
+}
+body {
+    font-family: sans-serif;
+    font-size: .875em;
+}
+body {
+    background: #000;
+    color: #222;
+    cursor: auto;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+html, body {
+    font-size: 100%;
+}
+h1, h2, h3, h4, h5, h6, html {
+    letter-spacing: normal;
+    font-weight: 300;
+}
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix:before, .clearfix:after {
+    content: " ";
+    display: table;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
